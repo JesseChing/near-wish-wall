@@ -1,2 +1,2 @@
 # near-wish-wall
-a sample Dapp run on Near blcokchain
+a sample Dapp run on Near blcokchain.
